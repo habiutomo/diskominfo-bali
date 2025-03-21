@@ -156,4 +156,4 @@ Proyek ini dibundel dalam beberapa file zip untuk memudahkan distribusi:
 
 ---
 
-© 2025 Website & CMS Diskominfos Provinsi Bali. Dikembangkan untuk tujuan pendidikan dan demonstrasi.
+habizinnia@gmail.com
