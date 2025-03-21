@@ -2,6 +2,17 @@
 
 Proyek ini adalah website informasi pemerintah yang terinspirasi dari situs Dinas Komunikasi, Informatika dan Statistik Provinsi Bali. Website ini menyediakan informasi departemen, berita, layanan, dan publikasi pemerintah dengan antarmuka admin (CMS) untuk mengelola konten.
 
+## Tampilan Website
+
+![Tampilan Website](2.png)
+## Tampilan Website
+
+![Tampilan Website](3.png)## Tampilan Website
+
+![Tampilan Website](4.png)## Tampilan Website
+
+![Tampilan Website](1.png)
+
 ## Fitur
 
 ### Website Publik
