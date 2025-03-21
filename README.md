@@ -7,6 +7,7 @@ Proyek ini adalah website informasi pemerintah yang terinspirasi dari situs Dina
 ![Tampilan Website](2.png)
 ![Tampilan Website](3.png)
 ![Tampilan Website](1.png)
+![alt text](4.png)
 
 ## Fitur
 
