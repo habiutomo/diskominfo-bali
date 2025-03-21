@@ -92,4 +92,4 @@ Proyek ini dibangun menggunakan:
 
 ---
 
-© 2023 Website Diskominfos Provinsi Bali. Dikembangkan untuk tujuan demonstrasi.
+habizinnia@gmail.com
